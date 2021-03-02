@@ -7,6 +7,6 @@
   * Self-employed (2016-2019)
 4. **HTML, CSS, JavaScript**
 5. Some examples of my code would be added while I am stadying in RSSchool
-6. Junior Dev, RSSchool
+6. Junior Dev, student of RSSchool
 7. GrSU 2005-2010 (economist, specialization - finance)
 8. **B2** (passed test in EPAM)
